@@ -1,9 +1,8 @@
 ## Hi! I am Diogo De Santana Jacome
-
 <div align="center">
   <a href="https://github.com/Didjacome">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Didjacome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didjacome&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Didjacome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didjacome&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -29,7 +28,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/diogo-de-santana-jacome-a33932196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a E-mail: diogo.jacome@csu.com.br  target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/diogojacome" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">   </a> 
+  <a href="https://t.me/diogojacome" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/Didjacome/Didjacome/blob/output/github-contribution-grid-snake.svg)
  
