@@ -1,12 +1,9 @@
 ## Hi! I am Diogo De Santana Jacome
 <div align="center">
   <a href="https://github.com/Didjacome">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Didjacome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didjacome&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didjacome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didjacome&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-##
-
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/b0/37/df/b037df079ca328b196300f3a24816e9c.gif">
   <img align="center" alt="Rafa-Python" height="30" width="120" src="https://cdn.worldvectorlogo.com/logos/windows-server.svg">
