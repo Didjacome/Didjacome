@@ -1,4 +1,7 @@
 ## Hi! I am Diogo De Santana Jacome
+<center>
+  
+![](https://i.pinimg.com/originals/b0/37/df/b037df079ca328b196300f3a24816e9c.gif)
 <div align="center">
   <a href="https://github.com/Didjacome">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didjacome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,8 +20,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="140" style="border-radius:50px;" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif">
 </div>
+  
+
 
 ##
 
