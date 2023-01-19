@@ -1,5 +1,8 @@
 ## Hi! I am Diogo De Santana Jacome
 
+| <a href="https://github.com/Didjacome/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Didjacome&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Didjacome/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didjacome&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="120" src="https://cdn.worldvectorlogo.com/logos/windows-server.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.svgrepo.com/show/303372/azure-1-logo.svg">
@@ -15,7 +18,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-
 
 ##
 
