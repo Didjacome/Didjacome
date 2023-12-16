@@ -37,7 +37,7 @@ I love tackling new challenges and contributing to open source projects.
   <a href="https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-azure" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" width="36" height="36" alt="Azure" /></a>
   <a href="https://cloud.google.com/docs?hl=pt-br" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="36" height="36" alt="Google Cloud" /></a>
   <a href="https://glossary.cncf.io/devops" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" width="36" height="36" alt="DevOps" /></a>
-  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="	https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="36" height="36" alt="Terraform" /></a>
   <a href="https://developer.hashicorp.com/vagrant/docs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="36" height="36" alt="Vagrant" /></a>
   <a href="https://learn.microsoft.com/pt-br/powershell/scripting/how-to-use-docs?view=powershell-7.4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" width="36" height="36" alt="PowerShell" /></a>
