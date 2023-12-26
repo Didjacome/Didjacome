@@ -73,3 +73,10 @@ I love tackling new challenges and contributing to open source projects.
 <a href="https://github.com/Didjacome"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Didjacome&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Didjacome" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didjacome&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### My Popular PowerShell Modules
+
+|PowerShell Gallery|Repo|Details
+| :--- | --- | --- |
+|[![PSGallery Downloads](https://raster.shields.io/powershellgallery/dt/Az.Adm.png?style=plastic&logo=powershell&label=Downloads)](https://www.powershellgallery.com/packages/Az.Adm) [![PSGallery Version](https://raster.shields.io/powershellgallery/v/Az.Adm.png?style=plastic&logo=powershell&label=Version)](https://www.powershellgallery.com/packages/Az.Adm)|[Az.Adm](https://github.com/Didjacome/Modules.Azure) |PowerShell module to Microsoft Azure administration
